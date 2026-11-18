@@ -8,7 +8,7 @@
       I run a fleet of coding agents like an engineering team, and I hold what they ship to a principal engineer's bar.
       Founder of <a href="https://zeroclickdev.ai/">Zero Click Dev</a>.
       <br /><br />
-      <a href="https://trent.zeroclickdev.ai/"><img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-my%20portfolio-78fcd6?style=for-the-badge&labelColor=111" alt="Press Start: my portfolio" /></a>
+      <a href="https://trent.zeroclickdev.ai/"><img src="https://img.shields.io/badge/%E2%96%B6%20PRESS%20START-my%20portfolio-78fcd6?style=for-the-badge&labelColor=111" alt="Press Start: my portfolio" /></a><br />
       My portfolio plays like a video game: a 3-minute film of my career, then every level. <a href="https://trent.zeroclickdev.ai/">trent.zeroclickdev.ai</a>
     </td>
   </tr>
