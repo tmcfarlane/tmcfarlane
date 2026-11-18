@@ -15,14 +15,14 @@
     <td align="center">
       <a href="https://zeroclickdev.ai/"><img width="98.5%" src="assets/zeroclick.webp" alt="Zero Click Dev: AI strategy, talent, and delivery" /></a>
       <br />
-      <a href="https://github.com/tmcfarlane/team-avatar"><img width="49%" src="assets/team-avatar-anim.webp" alt="Team Avatar: the universal coding-agent harness. Open source." /></a>
+      <a href="https://github.com/tmcfarlane/team-avatar"><img width="49%" src="assets/team-avatar-anim.webp" alt="Team Avatar: a universal agent harness for developers. Open source." /></a>
       <a href="https://flowchart.zeroclickdev.ai/"><img width="49%" src="assets/flowchart-anim.webp" alt="Flowchart AI: describe the flow, get the visual. Open source, MCP server." /></a>
       <br />
       <a href="https://board.zeroclickdev.ai/"><img width="49%" src="assets/zeroboard-anim.webp" alt="ZeroBoard: open-source Trello, built for agents. MCP server." /></a>
       <a href="https://replyguy.zeroclickdev.ai/"><img width="49%" src="assets/replyguy-anim.webp" alt="ReplyGuy: AI replies for LinkedIn and Gmail in your voice. Chrome extension." /></a>
       <br />
       <a href="https://dustline-eight.vercel.app/"><img width="49%" src="assets/dustline-anim.webp" alt="DUSTLINE: trials-style dirt-bike racing in your browser, with mobile touch controls" /></a>
-      <a href="https://deepwell-eight.vercel.app/"><img width="49%" src="assets/deepwell.webp" alt="DEEPWELL key art: a tactical deckbuilding roguelike" /></a>
+      <a href="https://deepwell-eight.vercel.app/"><img width="49%" src="assets/deepwell-anim.webp" alt="DEEPWELL gameplay: a tactical deckbuilding roguelike on web, iOS, macOS, and Windows" /></a>
     </td>
   </tr>
   <tr>
