@@ -13,13 +13,13 @@
     <td align="center">
       <a href="https://zeroclickdev.ai/"><img width="98.5%" src="assets/zeroclick.webp" alt="Zero Click Dev: AI strategy, talent, and delivery" /></a>
       <br />
-      <a href="https://github.com/tmcfarlane/team-avatar"><img width="49%" src="assets/team-avatar.webp" alt="Team Avatar: the universal coding-agent harness. Open source." /></a>
+      <a href="https://github.com/tmcfarlane/team-avatar"><img width="49%" src="assets/team-avatar-anim.webp" alt="Team Avatar: the universal coding-agent harness. Open source." /></a>
       <a href="https://flowchart.zeroclickdev.ai/"><img width="49%" src="assets/flowchart-anim.webp" alt="Flowchart AI: describe the flow, get the visual. Open source, MCP server." /></a>
       <br />
-      <a href="https://board.zeroclickdev.ai/"><img width="49%" src="assets/zeroboard.webp" alt="ZeroBoard: open-source Trello, built for agents. MCP server." /></a>
-      <a href="https://replyguy.zeroclickdev.ai/"><img width="49%" src="assets/replyguy.webp" alt="ReplyGuy: AI replies for LinkedIn and Gmail in your voice. Chrome extension." /></a>
+      <a href="https://board.zeroclickdev.ai/"><img width="49%" src="assets/zeroboard-anim.webp" alt="ZeroBoard: open-source Trello, built for agents. MCP server." /></a>
+      <a href="https://replyguy.zeroclickdev.ai/"><img width="49%" src="assets/replyguy-anim.webp" alt="ReplyGuy: AI replies for LinkedIn and Gmail in your voice. Chrome extension." /></a>
       <br />
-      <a href="https://dustline-eight.vercel.app/"><img width="49%" src="assets/dustline.webp" alt="DUSTLINE: trials-style dirt-bike racing in your browser, with mobile touch controls" /></a>
+      <a href="https://dustline-eight.vercel.app/"><img width="49%" src="assets/dustline-anim.webp" alt="DUSTLINE: trials-style dirt-bike racing in your browser, with mobile touch controls" /></a>
       <a href="https://deepwell-eight.vercel.app/"><img width="49%" src="assets/deepwell.webp" alt="DEEPWELL key art: a tactical deckbuilding roguelike" /></a>
     </td>
   </tr>
@@ -27,9 +27,13 @@
     <td>
       <b>how i work</b><br />
       🧪 <b>Experiment fast.</b> 45+ repos started in 2026: products, MCP servers, games, client sites, and research spikes.<br />
-      🔍 <b>Quality-control the agents.</b> Review panels across models, verification against the real app, evals, and benchmarks before anything is called done.<br />
+      📈 <b>Hill-climb with evals.</b> I build evals and benchmarks, then climb them: UI quality, game feel, API contracts, and infrastructure.<br />
+      🔍 <b>Quality-control the agents.</b> Review panels across models and verification against the real app before anything is called done.<br />
+      💸 <b>Run lean.</b> I optimize cloud cost hard. Most of my projects run free on hobby tiers.<br />
+      🖥️ <b>Ship beyond the web.</b> Native desktop apps (Tauri, Electron), iOS, and Windows builds, with CI pipelines that build them as development happens.<br />
       🚢 <b>Deliver end to end.</b> Code, docs, and the launch: AI-made key art, Remotion trailers, and narrated PR videos with Claude Opus.<br />
-      🛡️ <b>Govern it.</b> AI governance, CI that agents can't skip, and maintenance loops that keep every repo current.
+      🛡️ <b>Govern it.</b> AI governance, CI that agents can't skip, and maintenance loops that keep every repo current.<br />
+      🤝 <b>Lead with humility, grace, and being genuine.</b>
     </td>
   </tr>
   <tr>
@@ -39,7 +43,8 @@
       <a href="https://github.com/tmcfarlane/flowchart"><b>Flowchart AI</b></a> <img src="https://img.shields.io/badge/open%20source-111?style=flat-square" align="absmiddle"/> · describe the flow, get the visual. Your agent can draw and edit charts over MCP. <img src="https://img.shields.io/github/stars/tmcfarlane/flowchart?style=flat-square&color=111&label=%E2%98%85" align="absmiddle"/><br />
       <a href="https://github.com/tmcfarlane/zeroclickboards"><b>ZeroBoard</b></a> <img src="https://img.shields.io/badge/open%20source-111?style=flat-square" align="absmiddle"/> · an open-source Trello with an MCP server, so your agent can plan, track, and ship.<br />
       <a href="https://replyguy.zeroclickdev.ai/"><b>ReplyGuy</b></a> <img src="https://img.shields.io/badge/chrome%20extension-111?style=flat-square&logo=googlechrome&logoColor=ffffff" align="absmiddle"/> · one-click AI reply drafts for LinkedIn and Gmail that sound like you.<br />
-      <b>Games</b> · <a href="https://dustline-eight.vercel.app/">DUSTLINE</a> (trials-style dirt-bike racing with touch controls, Babylon.js + a custom XPBD physics solver), <a href="https://deepwell-eight.vercel.app/">DEEPWELL</a> (deckbuilding roguelike), and a real-time multiplayer poker engine.
+      <b>Word Garden</b> <img src="https://img.shields.io/badge/desktop%20app-111?style=flat-square&logo=tauri&logoColor=FFC131" align="absmiddle"/> · a local-first writing app for long-form fiction. No sign-in, bring your own AI key.<br />
+      <b>Games</b> · <a href="https://deepwell-eight.vercel.app/">DEEPWELL</a> (deckbuilding roguelike on web, iOS, macOS, and Windows), <a href="https://dustline-eight.vercel.app/">DUSTLINE</a> (trials-style dirt-bike racing with touch controls, Babylon.js + a custom XPBD physics solver), and a real-time multiplayer poker engine.
     </td>
   </tr>
   <tr>
@@ -85,13 +90,16 @@
       <img src="https://img.shields.io/badge/-Next.js-111?style=flat-square&logo=nextdotjs&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Three.js-111?style=flat-square&logo=threedotjs&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Babylon.js-111?style=flat-square&logo=babylondotjs&logoColor=BB464B"/>
+      <img src="https://img.shields.io/badge/-Tauri-111?style=flat-square&logo=tauri&logoColor=FFC131"/>
+      <img src="https://img.shields.io/badge/-Electron-111?style=flat-square&logo=electron&logoColor=9FEAF9"/>
+      <img src="https://img.shields.io/badge/-Swift%20%2F%20iOS-111?style=flat-square&logo=swift&logoColor=F05138"/>
       <img src="https://img.shields.io/badge/-Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=F38020"/>
       <img src="https://img.shields.io/badge/-Azure-111?style=flat-square&logoColor=0078D4"/>
     </td>
   </tr>
   <tr>
     <td>
-      <b>harnesses & skills i recommend</b><br />
+      <b>open source i recommend</b><br />
       <a href="https://github.com/michael-denyer/pstack-claude">pstack-claude</a> · poteto's pstack for Claude Code, Codex, Gemini, and more. Principles and playbooks for rigorous work.<br />
       <a href="https://github.com/t3dotgg/tstack">tstack</a> · Theo's agent skills, the ones he uses every day in Claude Code and Codex.<br />
       <a href="https://github.com/mattpocock/skills">mattpocock/skills</a> · skills for real engineers, straight from Matt Pocock's <code>.agents</code> directory.<br />
@@ -100,7 +108,10 @@
       <a href="https://github.com/Yeachan-Heo/oh-my-claudecode">oh-my-claudecode</a> · teams-first multi-agent orchestration for Claude Code.<br />
       <a href="https://github.com/ghuntley/how-to-ralph-wiggum">Ralph Wiggum</a> · Geoffrey Huntley's loop technique. See also <a href="https://github.com/snarktank/ralph">snarktank/ralph</a>.<br />
       <a href="https://github.com/vercel-labs/agent-browser">agent-browser</a> · Vercel's browser automation CLI for agents.<br />
-      <a href="https://github.com/openclaw/openclaw">OpenClaw</a> · the personal agent that actually does things. 🦞
+      <a href="https://github.com/openclaw/openclaw">OpenClaw</a> · the personal agent that actually does things. 🦞<br />
+      <a href="https://github.com/anomalyco/opencode">OpenCode</a> · Anomaly's open-source coding agent. One of my daily drivers.<br />
+      <a href="https://github.com/anomalyco/hex">Hex</a> · Anomaly's local voice dictation. Its Annotate mode records your screen while you draw and talk, then hands it to your agent.<br />
+      <a href="https://github.com/anomalyco/strobe">Strobe</a> · Anomaly's tool to measure and explain performance in web pages, Electron apps, and any process. I use it for perf work.
     </td>
   </tr>
 </table>
