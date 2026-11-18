@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle">
       <a href="https://x.com/hodlmecloseplz" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img align="right" hspace="6" width="24" alt="X" src="https://cdn.simpleicons.org/x/000000"></picture></a>
-      <a href="https://www.linkedin.com/in/TODO-your-linkedin" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
+      <a href="https://www.linkedin.com/in/trent-mcfarlane/" title="LinkedIn"><img align="right" hspace="6" width="26" alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a>
       <a href="https://www.linkedin.com/company/zero-click-dev" title="Zero Click Dev"><img align="right" hspace="6" width="26" alt="Zero Click Dev" src="https://raw.githubusercontent.com/tmcfarlane/zeroclickboards/main/public/logo/logo_color.svg"></a>
       <b>Hey, I'm Trent 👋</b><br />
       I run a fleet of coding agents like an engineering team, and I hold what they ship to a principal engineer's bar.
@@ -43,7 +43,7 @@
       <a href="https://github.com/tmcfarlane/flowchart"><b>Flowchart AI</b></a> <img src="https://img.shields.io/badge/open%20source-111?style=flat-square" align="absmiddle"/> · describe the flow, get the visual. Your agent can draw and edit charts over MCP. <img src="https://img.shields.io/github/stars/tmcfarlane/flowchart?style=flat-square&color=111&label=%E2%98%85" align="absmiddle"/><br />
       <a href="https://github.com/tmcfarlane/zeroclickboards"><b>ZeroBoard</b></a> <img src="https://img.shields.io/badge/open%20source-111?style=flat-square" align="absmiddle"/> · an open-source Trello with an MCP server, so your agent can plan, track, and ship.<br />
       <a href="https://replyguy.zeroclickdev.ai/"><b>ReplyGuy</b></a> <img src="https://img.shields.io/badge/chrome%20extension-111?style=flat-square&logo=googlechrome&logoColor=ffffff" align="absmiddle"/> · one-click AI reply drafts for LinkedIn and Gmail that sound like you.<br />
-      <b>Word Garden</b> <img src="https://img.shields.io/badge/desktop%20app-111?style=flat-square&logo=tauri&logoColor=FFC131" align="absmiddle"/> · a local-first writing app for long-form fiction. No sign-in, bring your own AI key.<br />
+      <a href="https://wordgarden.zeroclickdev.ai/"><b>Word Garden</b></a> <img src="https://img.shields.io/badge/desktop%20app-111?style=flat-square&logo=tauri&logoColor=FFC131" align="absmiddle"/> · a local-first writing app for long-form fiction. No sign-in, bring your own AI key.<br />
       <b>Games</b> · <a href="https://deepwell-eight.vercel.app/">DEEPWELL</a> (deckbuilding roguelike on web, iOS, macOS, and Windows), <a href="https://dustline-eight.vercel.app/">DUSTLINE</a> (trials-style dirt-bike racing with touch controls, Babylon.js + a custom XPBD physics solver), and a real-time multiplayer poker engine.
     </td>
   </tr>
