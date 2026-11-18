@@ -14,7 +14,7 @@
       <a href="https://zeroclickdev.ai/"><img width="98.5%" src="assets/zeroclick.webp" alt="Zero Click Dev: AI strategy, talent, and delivery" /></a>
       <br />
       <a href="https://github.com/tmcfarlane/team-avatar"><img width="49%" src="assets/team-avatar.webp" alt="Team Avatar: the universal coding-agent harness. Open source." /></a>
-      <a href="https://flowchart.zeroclickdev.ai/"><img width="49%" src="assets/flowchart.gif" alt="Flowchart AI: describe the flow, get the visual. Open source, MCP server." /></a>
+      <a href="https://flowchart.zeroclickdev.ai/"><img width="49%" src="assets/flowchart-anim.webp" alt="Flowchart AI: describe the flow, get the visual. Open source, MCP server." /></a>
       <br />
       <a href="https://board.zeroclickdev.ai/"><img width="49%" src="assets/zeroboard.webp" alt="ZeroBoard: open-source Trello, built for agents. MCP server." /></a>
       <a href="https://replyguy.zeroclickdev.ai/"><img width="49%" src="assets/replyguy.webp" alt="ReplyGuy: AI replies for LinkedIn and Gmail in your voice. Chrome extension." /></a>
@@ -58,14 +58,15 @@
   </tr>
   <tr>
     <td>
-      <b>agents i drive</b><br />
+      <b>agents i drive</b> · daily drivers: Claude Code, Codex, and OpenCode, all voice-first through SuperWhisper<br />
       <img src="https://img.shields.io/badge/-Claude%20Code-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
       <img src="https://img.shields.io/badge/-Codex-111?style=flat-square&logo=openai&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-OpenCode-111?style=flat-square&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-SuperWhisper%20🎙️-111?style=flat-square"/>
       <img src="https://img.shields.io/badge/-T3%20Code-111?style=flat-square&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Cursor-111?style=flat-square&logo=cursor&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Gemini%20CLI-111?style=flat-square&logo=googlegemini&logoColor=8E75B2"/>
       <img src="https://img.shields.io/badge/-GitHub%20Copilot-111?style=flat-square&logo=githubcopilot&logoColor=ffffff"/>
-      <img src="https://img.shields.io/badge/-OpenCode-111?style=flat-square&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-OpenClaw%20🦞-111?style=flat-square"/>
       <img src="https://img.shields.io/badge/-ChatGPT-111?style=flat-square&logo=openai&logoColor=10A37F"/>
       <img src="https://img.shields.io/badge/-Ollama-111?style=flat-square&logo=ollama&logoColor=ffffff"/>
