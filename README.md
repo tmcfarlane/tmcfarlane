@@ -98,9 +98,11 @@
     <td>
       <b>what i build with</b><br />
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=F38020"/>
       <img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Jev%20%C2%B7%20TypeSafe%20AI-111?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
+      <img src="https://img.shields.io/badge/-PostHog-111?style=flat-square&logo=posthog&logoColor=F9BD2B"/>
       <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
       <img src="https://img.shields.io/badge/-agent--browser-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-Playwright-111?style=flat-square&logo=playwright&logoColor=2EAD33"/>
@@ -111,7 +113,6 @@
       <img src="https://img.shields.io/badge/-Tauri-111?style=flat-square&logo=tauri&logoColor=FFC131"/>
       <img src="https://img.shields.io/badge/-Electron-111?style=flat-square&logo=electron&logoColor=9FEAF9"/>
       <img src="https://img.shields.io/badge/-Swift%20%2F%20iOS-111?style=flat-square&logo=swift&logoColor=F05138"/>
-      <img src="https://img.shields.io/badge/-Cloudflare-111?style=flat-square&logo=cloudflare&logoColor=F38020"/>
       <img src="https://img.shields.io/badge/-Azure-111?style=flat-square&logoColor=0078D4"/>
     </td>
   </tr>
