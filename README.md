@@ -35,7 +35,7 @@
       <sub>I build evals and benchmarks, then climb them: UI quality, game feel, API contracts, and infrastructure.</sub><br />
       <br />
       🔍 <b>Quality-control the agents</b><br />
-      <sub>Review panels across models and verification against the real app before anything is called done.</sub><br />
+      <sub>Review panels across models and verification against the real app before anything is called done. Reviewers get a narrated video of each PR instead of a wall of text.</sub><br />
       <br />
       💸 <b>Run lean</b><br />
       <sub>I optimize cloud cost hard. Most of my projects run free on hobby tiers.</sub><br />
@@ -43,8 +43,8 @@
       🖥️ <b>Ship beyond the web</b><br />
       <sub>Native desktop apps (Tauri, Electron), iOS, and Windows builds, with CI pipelines that build them as development happens.</sub><br />
       <br />
-      🎬 <b>Ship the whole story, not just the code</b><br />
-      <sub>Agents make my launches too: product launch videos, marketing creatives, and scheduled social campaigns. Reviewers get a narrated video of each PR instead of a wall of text, and my team's demo videos have reached leadership.</sub><br />
+      🎬 <b>Launch it, not just ship it</b><br />
+      <sub>Every product gets a launch: agents help me make the product launch videos, marketing creatives, and social campaigns. My team's demo videos have reached leadership.</sub><br />
       <br />
       🛡️ <b>Govern it</b><br />
       <sub>AI governance, CI that agents can't skip, and maintenance loops that keep every repo current.</sub><br />
