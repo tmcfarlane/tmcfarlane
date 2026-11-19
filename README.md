@@ -76,18 +76,26 @@
   <tr>
     <td>
       <details>
-        <summary><b>My AI Experience Timeline</b> <sub>2017 → today</sub></summary>
+        <summary><b>My AI Experience Timeline</b> <sub>2015 → today</sub></summary>
         <br />
         <ul>
-          <li><code>2017</code> <b>Machine learning, then transformers</b><br /><sub>Took Andrew Ng's machine learning course. When Google published the transformer paper, <i>Attention Is All You Need</i>, I started following the research closely, years before ChatGPT.</sub><br /><br /></li>
-          <li><code>2024</code> <b>AI joins the daily workflow</b><br /><sub>ChatGPT and GitHub Copilot.</sub><br /><br /></li>
-          <li><code>2025</code> <b>Early MCP</b><br /><sub>Azure and Data Explorer MCP servers, AI SDK + Supabase apps. Founded Zero Click Dev.</sub><br /><br /></li>
+          <li><code>2015</code> <b>🎓 B.S. Computer Science</b><br /><sub>Central Washington University, minor in mathematics.</sub><br /><br /></li>
+          <li><code>2017</code> <b>🧠 Machine learning, then transformers</b><br /><sub>Took Andrew Ng's machine learning course. When Google published the transformer paper, <i>Attention Is All You Need</i>, I started following the research closely, years before ChatGPT.</sub><br /><br /></li>
+          <li><code>2017–2020</code> <b>🏥 GE Healthcare · Software Engineer</b><br /><sub>Scaled the API platform to 1.6M calls a month and onboarded 20+ teams. Built DICOM ingestion pipelines for machine-learning diagnostics. Started leading and mentoring developers, about 15 so far.</sub><br /><br /></li>
+          <li><code>2020–2022</code> <b>⚙️ AIM Consulting · Senior Software Engineer</b><br /><sub>Led backend architecture for a multi-tenant healthcare pricing platform on Node.js and AWS. Deployments got 40% faster.</sub><br /><br /></li>
+          <li><code>2022</code> <b>🧪 Microsoft · Learn Lab Manager</b><br /><sub>Integrated Microsoft Applied Skills with third-party VM labs, turning a 48-hour certification wait into an instant result.</sub><br /><br /></li>
+          <li><code>2022–2025</code> <b>🤖 Microsoft · Senior Software Engineer, AI</b><br /><sub>Led six AI initiatives. Skill Plan Assist (now AI Skills Navigator) cut customer training plans from 3–4 months to under 2 weeks. Built the SalesCoach voice-and-avatar agent, and LLM AccuCheck, which raised AI content accuracy 40% and led to a patent filing. The Container Cookbook saved $1M+ in Azure. Keynotes on LLM adoption to 500+ people, and presented to Judson Althoff.</sub><br /><br /></li>
+          <li><code>2025</code> <b>✈️ Alaska Airlines · Senior AI Architect</b><br /><sub>Founded the AI Operations Program as a team of one: reviewed 30 AI projects in 2 months and cut 60 AI instances to 25, saving $2M. Built the AI Landing Zone that 100+ teams use, cutting AI access from 2 weeks to 2 days.</sub><br /><br /></li>
+          <li><code>2025</code> <b>🛡️ Safe agents in production</b><br /><sub>Permission-aware access controls and OpenTelemetry tracing for the NavAIgate Agent Marketplace. Co-built an incident agent that cut resolution from days or weeks to minutes or days. Founded Zero Click Dev.</sub><br /><br /></li>
           <li><code>Jan 2026</code> <b>🔁 Ralph loops</b><br /><sub>Built a full app in autonomous Ralph Wiggum iterations. Claude Code, Codex, Gemini CLI, and OpenCode in rotation.</sub><br /><br /></li>
-          <li><code>Feb 2026</code> <b>Multi-agent orchestration</b><br /><sub>oh-my-cursor, then Team Avatar. Shipped Flowchart AI and ZeroBoard. Local models on Ollama.</sub><br /><br /></li>
-          <li><code>Mar–May 2026</code> <b>Agents run marketing too</b><br /><sub>Social automation plus LinkedIn and publishing MCP servers. The skills era: gbrain, Matt Pocock's skills, Hermes.</sub><br /><br /></li>
-          <li><code>Jun 2026</code> <b>Agentic SDLC</b><br /><sub>AI-assisted maintenance loops across the whole portfolio.</sub><br /><br /></li>
-          <li><code>Aug–Sep 2026</code> <b>Games, built with agents</b><br /><sub>Plus AI-generated promo campaigns to launch them.</sub><br /><br /></li>
-          <li><code>Oct–Nov 2026</code> <b>Harnesses, video, and System One models</b><br /><sub>pstack, T3 Code, agent-browser, Remotion trailers, and narrated video walkthroughs of PRs. Early access to <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Jev</a>, TypeSafe AI's System One model for fast, typed decisions inside software.</sub><br /><br /></li>
+          <li><code>Feb 2026</code> <b>🧩 Multi-agent orchestration</b><br /><sub>oh-my-cursor, then Team Avatar. Shipped Flowchart AI and ZeroBoard. Local models on Ollama.</sub><br /><br /></li>
+          <li><code>Mar–May 2026</code> <b>📣 Agents run marketing too</b><br /><sub>Social automation plus LinkedIn and publishing MCP servers. The skills era: gbrain, Matt Pocock's skills, Hermes.</sub><br /><br /></li>
+          <li><code>Apr 2026</code> <b>🏗️ Insight · Forward Deployed Engineer</b><br /><sub>Lead a Fortune 500 energy client's business-development AI. Built the stakeholder agent end to end, from a Salesforce trigger through Databricks to an approved CRM writeback, and the product the two CEOs demoed onstage. Piloting a shared T3 Code workspace for the team.</sub><br /><br /></li>
+          <li><code>2026</code> <b>🏆 HackerRank AI Agent Hackathon</b><br /><sub>8th of 1,349 teams with a support triage agent. Chose hybrid retrieval by measuring it: Recall@5 of 1.000 versus 0.714 for keyword search.</sub><br /><br /></li>
+          <li><code>2026</code> <b>📊 Honest evals</b><br /><sub>Built a public eval suite for Team Avatar (29 of 29 routing cases) and published a SWE-bench result that showed no significant lift.</sub><br /><br /></li>
+          <li><code>Jun 2026</code> <b>🔧 Agentic SDLC</b><br /><sub>AI-assisted maintenance loops across the whole portfolio.</sub><br /><br /></li>
+          <li><code>Aug–Sep 2026</code> <b>🎮 Games, built with agents</b><br /><sub>DEEPWELL and DUSTLINE, plus AI-generated promo campaigns to launch them.</sub><br /><br /></li>
+          <li><code>Oct–Nov 2026</code> <b>🎬 Harnesses, video, and System One models</b><br /><sub>pstack, T3 Code, agent-browser, Remotion trailers, and narrated video walkthroughs of PRs. Early access to <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Jev</a>, TypeSafe AI's System One model for fast, typed decisions inside software.</sub><br /><br /></li>
         </ul>
       </details>
     </td>
