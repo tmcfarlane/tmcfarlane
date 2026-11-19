@@ -73,7 +73,7 @@
           <li><code>Mar–May 2026</code> <b>Agents run marketing too</b><br /><sub>Social automation plus LinkedIn and publishing MCP servers. The skills era: gbrain, Matt Pocock's skills, Hermes.</sub><br /><br /></li>
           <li><code>Jun 2026</code> <b>Agentic SDLC</b><br /><sub>AI-assisted maintenance loops across the whole portfolio.</sub><br /><br /></li>
           <li><code>Aug–Sep 2026</code> <b>Games, built with agents</b><br /><sub>Plus AI-generated promo campaigns to launch them.</sub><br /><br /></li>
-          <li><code>Oct–Nov 2026</code> <b>Harnesses and video</b><br /><sub>pstack, T3 Code, agent-browser, Remotion trailers, and narrated video walkthroughs of PRs.</sub><br /><br /></li>
+          <li><code>Oct–Nov 2026</code> <b>Harnesses, video, and System One models</b><br /><sub>pstack, T3 Code, agent-browser, Remotion trailers, and narrated video walkthroughs of PRs. Early access to <a href="https://typesafe.ai/blog/introducing-system-one-models-and-jev">Jev</a>, TypeSafe AI's System One model for fast, typed decisions inside software.</sub><br /><br /></li>
         </ul>
       </details>
     </td>
@@ -99,6 +99,7 @@
       <b>what i build with</b><br />
       <img src="https://img.shields.io/badge/-Vercel-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
       <img src="https://img.shields.io/badge/-AI%20SDK-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
+      <img src="https://img.shields.io/badge/-Jev%20%C2%B7%20TypeSafe%20AI-111?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Supabase-111?style=flat-square&logo=supabase&logoColor=3FCF8E"/>
       <img src="https://img.shields.io/badge/-MCP-111?style=flat-square&logo=anthropic&logoColor=D97757"/>
       <img src="https://img.shields.io/badge/-agent--browser-111?style=flat-square&logo=vercel&logoColor=ffffff"/>
