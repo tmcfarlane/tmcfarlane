@@ -61,25 +61,21 @@
   </tr>
   <tr>
     <td>
-      <b>ai timeline</b><br /><br />
-      <code>2017</code> <b>Machine learning fundamentals</b><br />
-      <sub>Andrew Ng's course on Coursera. <a href="https://github.com/tmcfarlane/Machine-Learning-Notes">My notes.</a></sub><br /><br />
-      <code>2024</code> <b>AI joins the daily workflow</b><br />
-      <sub>ChatGPT and GitHub Copilot.</sub><br /><br />
-      <code>2025</code> <b>Early MCP</b><br />
-      <sub>Azure and Data Explorer MCP servers, AI SDK + Supabase apps. Founded Zero Click Dev.</sub><br /><br />
-      <code>Jan 2026</code> <b>🔁 Ralph loops</b><br />
-      <sub>Built a full app in autonomous Ralph Wiggum iterations. Claude Code, Codex, Gemini CLI, and OpenCode in rotation.</sub><br /><br />
-      <code>Feb 2026</code> <b>Multi-agent orchestration</b><br />
-      <sub>oh-my-cursor, then Team Avatar. Shipped Flowchart AI and ZeroBoard. Local models on Ollama.</sub><br /><br />
-      <code>Mar–May 2026</code> <b>Agents run marketing too</b><br />
-      <sub>Social automation plus LinkedIn and publishing MCP servers. The skills era: gbrain, Matt Pocock's skills, Hermes.</sub><br /><br />
-      <code>Jun 2026</code> <b>Agentic SDLC</b><br />
-      <sub>AI-assisted maintenance loops across the whole portfolio.</sub><br /><br />
-      <code>Aug–Sep 2026</code> <b>Games, built with agents</b><br />
-      <sub>Plus AI-generated promo campaigns to launch them.</sub><br /><br />
-      <code>Oct–Nov 2026</code> <b>Harnesses and video</b><br />
-      <sub>pstack, T3 Code, agent-browser, Remotion trailers, and narrated video walkthroughs of PRs.</sub>
+      <details>
+        <summary><b>My AI Experience Timeline</b> <sub>2017 → today</sub></summary>
+        <br />
+        <ul>
+          <li><code>2017</code> <b>Machine learning fundamentals</b><br /><sub>Andrew Ng's course on Coursera. <a href="https://github.com/tmcfarlane/Machine-Learning-Notes">My notes.</a></sub><br /><br /></li>
+          <li><code>2024</code> <b>AI joins the daily workflow</b><br /><sub>ChatGPT and GitHub Copilot.</sub><br /><br /></li>
+          <li><code>2025</code> <b>Early MCP</b><br /><sub>Azure and Data Explorer MCP servers, AI SDK + Supabase apps. Founded Zero Click Dev.</sub><br /><br /></li>
+          <li><code>Jan 2026</code> <b>🔁 Ralph loops</b><br /><sub>Built a full app in autonomous Ralph Wiggum iterations. Claude Code, Codex, Gemini CLI, and OpenCode in rotation.</sub><br /><br /></li>
+          <li><code>Feb 2026</code> <b>Multi-agent orchestration</b><br /><sub>oh-my-cursor, then Team Avatar. Shipped Flowchart AI and ZeroBoard. Local models on Ollama.</sub><br /><br /></li>
+          <li><code>Mar–May 2026</code> <b>Agents run marketing too</b><br /><sub>Social automation plus LinkedIn and publishing MCP servers. The skills era: gbrain, Matt Pocock's skills, Hermes.</sub><br /><br /></li>
+          <li><code>Jun 2026</code> <b>Agentic SDLC</b><br /><sub>AI-assisted maintenance loops across the whole portfolio.</sub><br /><br /></li>
+          <li><code>Aug–Sep 2026</code> <b>Games, built with agents</b><br /><sub>Plus AI-generated promo campaigns to launch them.</sub><br /><br /></li>
+          <li><code>Oct–Nov 2026</code> <b>Harnesses and video</b><br /><sub>pstack, T3 Code, agent-browser, Remotion trailers, and narrated video walkthroughs of PRs.</sub><br /><br /></li>
+        </ul>
+      </details>
     </td>
   </tr>
   <tr>
