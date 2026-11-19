@@ -65,7 +65,7 @@
         <summary><b>My AI Experience Timeline</b> <sub>2017 → today</sub></summary>
         <br />
         <ul>
-          <li><code>2017</code> <b>Machine learning, then transformers</b><br /><sub>Andrew Ng's machine learning course, then following transformer research from <i>Attention Is All You Need</i> onward, years before ChatGPT.</sub><br /><br /></li>
+          <li><code>2017</code> <b>Machine learning, then transformers</b><br /><sub>Took Andrew Ng's machine learning course. When Google published the transformer paper, <i>Attention Is All You Need</i>, I started following the research closely, years before ChatGPT.</sub><br /><br /></li>
           <li><code>2024</code> <b>AI joins the daily workflow</b><br /><sub>ChatGPT and GitHub Copilot.</sub><br /><br /></li>
           <li><code>2025</code> <b>Early MCP</b><br /><sub>Azure and Data Explorer MCP servers, AI SDK + Supabase apps. Founded Zero Click Dev.</sub><br /><br /></li>
           <li><code>Jan 2026</code> <b>🔁 Ralph loops</b><br /><sub>Built a full app in autonomous Ralph Wiggum iterations. Claude Code, Codex, Gemini CLI, and OpenCode in rotation.</sub><br /><br /></li>
