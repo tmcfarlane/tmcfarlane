@@ -43,8 +43,8 @@
       🖥️ <b>Ship beyond the web</b><br />
       <sub>Native desktop apps (Tauri, Electron), iOS, and Windows builds, with CI pipelines that build them as development happens.</sub><br />
       <br />
-      🚢 <b>Deliver end to end</b><br />
-      <sub>Code, docs, and the launch: AI-made key art, Remotion trailers, and narrated PR videos with Claude Opus.</sub><br />
+      🎬 <b>Ship the whole story, not just the code</b><br />
+      <sub>Agents make my launches too: key art, Remotion trailers, and scheduled social campaigns. Reviewers get a narrated video of each PR instead of a wall of text, and my team's demo videos have reached leadership.</sub><br />
       <br />
       🛡️ <b>Govern it</b><br />
       <sub>AI governance, CI that agents can't skip, and maintenance loops that keep every repo current.</sub><br />
