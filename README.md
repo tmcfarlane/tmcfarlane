@@ -76,11 +76,11 @@
   <tr>
     <td>
       <details>
-        <summary><b>My AI Experience Timeline</b> <sub>2015 → today</sub></summary>
+        <summary><b>My AI Experience Timeline</b> <sub>2017 → today</sub></summary>
         <br />
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.webp" />
-          <img width="100%" src="assets/timeline-light.webp" alt="Timeline: 2015 B.S. Computer Science. 2017 machine learning and transformer research. 2017-2020 GE Healthcare API platform. 2020-2022 AIM Consulting. 2022-2025 Microsoft: pushing AI from the inside, six AI initiatives. 2025 Alaska Airlines AI Operations Program and AI Landing Zone. 2026: Ralph loops, Team Avatar, Insight forward deployed engineer, HackerRank 8th of 1,349, evals, agentic SDLC, games, Jev." />
+          <img width="100%" src="assets/timeline-light.webp" alt="AI timeline: 2017 machine learning and transformer research. 2017-2020 first ML in production at GE Healthcare. 2022-2025 pushing AI adoption and shipping AI products at Microsoft. 2025 enterprise AI adoption at Alaska Airlines, safe agents in production, founded Zero Click Dev. 2026: Ralph loops, multi-agent orchestration, AI adoption at a Fortune 500 client through Insight, HackerRank 8th of 1,349, honest evals, agentic SDLC, games built with agents, Jev." />
         </picture>
       </details>
     </td>
