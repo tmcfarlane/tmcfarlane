@@ -27,15 +27,29 @@
   </tr>
   <tr>
     <td>
-      <b>how i work</b><br />
-      🧪 <b>Experiment fast.</b> 45+ repos started in 2026: products, MCP servers, games, client sites, and research spikes.<br />
-      📈 <b>Hill-climb with evals.</b> I build evals and benchmarks, then climb them: UI quality, game feel, API contracts, and infrastructure.<br />
-      🔍 <b>Quality-control the agents.</b> Review panels across models and verification against the real app before anything is called done.<br />
-      💸 <b>Run lean.</b> I optimize cloud cost hard. Most of my projects run free on hobby tiers.<br />
-      🖥️ <b>Ship beyond the web.</b> Native desktop apps (Tauri, Electron), iOS, and Windows builds, with CI pipelines that build them as development happens.<br />
-      🚢 <b>Deliver end to end.</b> Code, docs, and the launch: AI-made key art, Remotion trailers, and narrated PR videos with Claude Opus.<br />
-      🛡️ <b>Govern it.</b> AI governance, CI that agents can't skip, and maintenance loops that keep every repo current.<br />
-      🤝 <b>Lead with humility, grace, and being genuine.</b>
+      <b>how i work</b><br /><br />
+      🧪 <b>Experiment fast</b><br />
+      <sub>45+ repos started in 2026: products, MCP servers, games, client sites, and research spikes.</sub><br />
+      <br />
+      📈 <b>Hill-climb with evals</b><br />
+      <sub>I build evals and benchmarks, then climb them: UI quality, game feel, API contracts, and infrastructure.</sub><br />
+      <br />
+      🔍 <b>Quality-control the agents</b><br />
+      <sub>Review panels across models and verification against the real app before anything is called done.</sub><br />
+      <br />
+      💸 <b>Run lean</b><br />
+      <sub>I optimize cloud cost hard. Most of my projects run free on hobby tiers.</sub><br />
+      <br />
+      🖥️ <b>Ship beyond the web</b><br />
+      <sub>Native desktop apps (Tauri, Electron), iOS, and Windows builds, with CI pipelines that build them as development happens.</sub><br />
+      <br />
+      🚢 <b>Deliver end to end</b><br />
+      <sub>Code, docs, and the launch: AI-made key art, Remotion trailers, and narrated PR videos with Claude Opus.</sub><br />
+      <br />
+      🛡️ <b>Govern it</b><br />
+      <sub>AI governance, CI that agents can't skip, and maintenance loops that keep every repo current.</sub><br />
+      <br />
+      🤝 <b>Lead with humility, grace, and being genuine</b><br />
     </td>
   </tr>
   <tr>
